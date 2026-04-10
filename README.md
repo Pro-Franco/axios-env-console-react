@@ -25,3 +25,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 - npm install axios
 - npm install react-native-dotenv
 - npm install @react-native-async-storage/async-storage
+
+- pnpm install ; pnpm run lint ; true ; pnpm exec tsc --noEmit ; true
+
+- Sites
+- <https://axios.rest/>
+- <https://github.com/react-native-async-storage/async-storage>
+- <https://www.npmjs.com/package/react-native-dotenv>
